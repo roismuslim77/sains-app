@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^7.3",
+        "php": "^7.3.24",
         "dingo/api": "^3.0",
         "doctrine/inflector": "1.4",
         "firebase/php-jwt": "^5.0",
